@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AlvesViewTool::Renderer.copyright("Sergio Alves", "All rights reserved")
+```
 
 ## Development
 
